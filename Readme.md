@@ -1,14 +1,14 @@
 # Table of Contents
-- Introduction
-- Features
+- [Introduction](#introduction)
+- [Features](#Features)
 - [Technologies Used](#technologies-used)
-- Installation
-- Usage
-- Configuration
-- Examples
-- Contributing
-- License
-- Contact
+- [Installation](#installation)
+- [Usage](#Usage)
+- [Configuration](#Configuration)
+- [Examples](#Examples)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Contact](#Contact)
 
 ## Introduction
 This project is an online food ordering system that allows users to browse, order, and manage food items. It includes an admin panel for managing categories, users, orders, and site settings.
