@@ -32,11 +32,11 @@ This project is an online food ordering system that allows users to browse, orde
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/khamko07/Lao_food.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd yourrepository
+    cd Lao_food
     ```
 3. Set up the database:
     - Import the `database.sql` file into your MySQL database.
